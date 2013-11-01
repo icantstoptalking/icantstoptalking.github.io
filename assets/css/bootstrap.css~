@@ -130,7 +130,11 @@ img {
 }
 
 img.header {
+<<<<<<< HEAD
 vertical-align:text-bottom;
+=======
+vertical-align:text-top;
+>>>>>>> ee63c51185d111b7ed55a21900574bb1c70d2711
 margin-left: auto;
 margin-right: auto;
 display: block;

@@ -43,10 +43,16 @@ td.label {
 }
 
 
+<<<<<<< HEAD
 p.caption {
     /* Issue 292 */
     text-align: center;
     text-size:12px;
+=======
+.caption {
+    /* Issue 292 */
+    text-align: center;
+>>>>>>> ee63c51185d111b7ed55a21900574bb1c70d2711
 }
 
 div.figure > a > img {
@@ -86,6 +92,7 @@ body {
 p {
 	text-align:left;
 }
+<<<<<<< HEAD
 
 h1, h2, h3 {
 	text-align:left;
@@ -131,3 +138,5 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#596a72', end
 
 .navbar {
 	border-radius: 5px;
+=======
+>>>>>>> ee63c51185d111b7ed55a21900574bb1c70d2711

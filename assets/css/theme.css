@@ -43,10 +43,16 @@ td.label {
 }
 
 
+<<<<<<< HEAD
 p.caption {
     /* Issue 292 */
     text-align: center;
     text-size:12px;
+=======
+.caption {
+    /* Issue 292 */
+    text-align: center;
+>>>>>>> ee63c51185d111b7ed55a21900574bb1c70d2711
 }
 
 div.figure > a > img {
@@ -90,6 +96,7 @@ p {
 h1, h2, h3 {
 	text-align:left;
 }
+<<<<<<< HEAD
 
 h1.right {
 	font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
@@ -131,3 +138,5 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4f5752', end
 
 .navbar {
 	border-radius: 5px;
+=======
+>>>>>>> ee63c51185d111b7ed55a21900574bb1c70d2711

@@ -5,6 +5,7 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
+<<<<<<< HEAD
   <loc>http://www.icantstoptalking.com/</loc>
   <lastmod>2013-10-28</lastmod>
   <priority>0.5000</priority>
@@ -126,10 +127,134 @@
  </url>
  <url>
   <loc>http://www.icantstoptalking.com/posts/i-may-hate-my-self-in-the-morning.html</loc>
+=======
+  <loc>http://getnikola.com/</loc>
+  <lastmod>2013-10-27</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://getnikola.com/2013/</loc>
+  <lastmod>2013-10-26</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://getnikola.com/2013/index.html</loc>
+  <lastmod>2013-10-26</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://getnikola.com/archive.html</loc>
+  <lastmod>2013-10-26</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://getnikola.com/categories/</loc>
+  <lastmod>2013-10-26</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://getnikola.com/categories/bruce-banner.html</loc>
+  <lastmod>2013-10-27</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://getnikola.com/categories/cake.html</loc>
+  <lastmod>2013-10-27</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://getnikola.com/categories/chevelle.html</loc>
+  <lastmod>2013-10-27</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://getnikola.com/categories/dispensary.html</loc>
+  <lastmod>2013-10-27</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://getnikola.com/categories/first.html</loc>
+  <lastmod>2013-10-27</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://getnikola.com/categories/grinder.html</loc>
+  <lastmod>2013-10-27</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://getnikola.com/categories/index.html</loc>
+  <lastmod>2013-10-26</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://getnikola.com/categories/introduction.html</loc>
+  <lastmod>2013-10-27</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://getnikola.com/categories/medical.html</loc>
+  <lastmod>2013-10-27</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://getnikola.com/categories/new.html</loc>
+  <lastmod>2013-10-27</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://getnikola.com/categories/review.html</loc>
+  <lastmod>2013-10-27</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://getnikola.com/categories/sharpstone.html</loc>
+  <lastmod>2013-10-27</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://getnikola.com/categories/weed.html</loc>
+  <lastmod>2013-10-27</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://getnikola.com/galleries/</loc>
+  <lastmod>2013-10-26</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://getnikola.com/galleries/index.html</loc>
+  <lastmod>2013-10-26</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://getnikola.com/index.html</loc>
+  <lastmod>2013-10-27</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://getnikola.com/listings/</loc>
+  <lastmod>2013-10-26</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://getnikola.com/listings/index.html</loc>
+  <lastmod>2013-10-26</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://getnikola.com/posts/as-long-as-he-doesnt-turn-into-red-hulk.html</loc>
+  <lastmod>2013-10-27</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://getnikola.com/posts/i-may-hate-my-self-in-the-morning.html</loc>
+>>>>>>> ee63c51185d111b7ed55a21900574bb1c70d2711
   <lastmod>2013-10-18</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
+<<<<<<< HEAD
   <loc>http://www.icantstoptalking.com/posts/test-post-dont-upvote.html</loc>
   <lastmod>2013-11-01</lastmod>
   <priority>0.5000</priority>
@@ -142,6 +267,20 @@
  <url>
   <loc>http://www.icantstoptalking.com/stories/what-im-doing.html</loc>
   <lastmod>2013-11-01</lastmod>
+=======
+  <loc>http://getnikola.com/posts/test-post-dont-upvote.html</loc>
+  <lastmod>2013-10-26</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://getnikola.com/stories/test.html</loc>
+  <lastmod>2013-10-26</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://getnikola.com/stories/what-im-doing.html</loc>
+  <lastmod>2013-10-26</lastmod>
+>>>>>>> ee63c51185d111b7ed55a21900574bb1c70d2711
   <priority>0.5000</priority>
  </url>
 </urlset>
