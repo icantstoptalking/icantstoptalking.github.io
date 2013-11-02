@@ -8,7 +8,7 @@
 -->
 
 
-<img src='/bbheader.jpg' alt="missing jpg">
+<img class="round" src='/bbheader.jpg' alt="missing jpg">
 
 #That shit is called Bruce Banner
 
@@ -19,17 +19,8 @@
 ##Getting Ready
 
 I love the process when I get the bag home. It's great, the whole trip. My wife and I share our impressions, "Damn, look at that!", "Shits' dense." etc. When we get a chance to smoke it's cathartic before I even smoke. Who doesn't enjoy giving freshly ground weed a good whiff? What could be better? As I was preparing the bowl Loser by Beck came on and I thought "yea, this is alright." A good song goes a long way to make a pleasant smoke, so keep in mind that I had pretty righteous music going.
-<div class="row-fluid" >
-<div class="span8" >
-<p>The nugs were satisfyingly dense and very hairy. It's not a sure thing that the weed is good if you've got solid nugs, but it's never a bad sign. The anise smell was pleasantly strong as I broke up the large nugs and loaded the grinder. It was well cured product so I didn't have too much of a sticking problem. It ground well and the smell got even more pungent, but still nice. It's spicy and musky, best described by the absence of the strong chemical other strong strains usually have. Imagine a nice herbal tea with a hint of licorice. Like all good weed, I would recommend grinding. You can just shove whole nugs in there, like a savage, but it will always smoke better well ground. I use a [crank grinder](http://www.sharpstonegrinders.com/sharpstone-clear-top-hand-crank-4-piece-grinder-2-5-blue) to make sure it burns nice and even like. </p>
-<div class="span4">
-<p>
-<img class="rounded" src="/bb1.jpg">
-</p>
-<p class="subtitle">Ready for burning.</p>
-</div>
-</div>
-</div>
+
+The nugs were satisfyingly dense and very hairy. It's not a sure thing that the weed is good if you've got solid nugs, but it's never a bad sign. The anise smell was pleasantly strong as I broke up the large nugs and loaded the grinder. It was well cured product so I didn't have too much of a sticking problem. It ground well and the smell got even more pungent, but still nice. It's spicy and musky, best described by the absence of the strong chemical other strong strains usually have. Imagine a nice herbal tea with a hint of licorice. Like all good weed, I would recommend grinding. You can just shove whole nugs in there, like a savage, but it will always smoke better well ground. I use a [crank grinder](http://www.sharpstonegrinders.com/sharpstone-clear-top-hand-crank-4-piece-grinder-2-5-blue) to make sure it burns nice and even like. </p>
 
 ##That Magic Moment
 

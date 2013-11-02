@@ -6,7 +6,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://www.icantstoptalking.com/</loc>
-  <lastmod>2013-10-28</lastmod>
+  <lastmod>2013-11-01</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -127,6 +127,11 @@
  <url>
   <loc>http://www.icantstoptalking.com/posts/i-may-hate-my-self-in-the-morning.html</loc>
   <lastmod>2013-10-18</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.icantstoptalking.com/posts/kill-orcs-build-a-better-marriage.html</loc>
+  <lastmod>2013-11-01</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
