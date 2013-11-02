@@ -100,11 +100,14 @@ h1.right {
 }
 
 .navbar-brand {
-	font-family: Tahoma, Geneva, sans-serif;
+	font-family: "Arial Black", Gadget, sans-serif;
   float: left;
   padding: 20px 15px;
-  font-size: 25px;
+  font-size: 2em;
+  font-weight: bold;
   line-height: 20px;
+  text-shadow:#fff 0px 1px 0, #000 0 -1px 0;
+
 }
 
 body {
@@ -136,5 +139,9 @@ html {
 
 .footer, .push {
 	height: 155px; /* .push must be the same height as .footer */
+}
+
+.inset {
+	text-shadow:#fff 0px 1px 0, #000 0 -1px 0;
 }
 
