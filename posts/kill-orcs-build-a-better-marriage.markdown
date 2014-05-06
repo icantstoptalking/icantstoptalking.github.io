@@ -16,7 +16,7 @@ If you play video games with your significant other, then I have one question: h
 I cannot overstate how much I love Orcs Must Die: 2. I won't bore you with a [review](http://www.metacritic.com/game/pc/orcs-must-die!-2), because I'm more focused on Orcs Must Die: 2 as a unique couples game, but it's a really great game besides. Here is a quick run down on why it's a good game to play no matter what:
 
 Orcs Must Die: 2 hits every high note. The graphics are colorful and well used. If you enjoy games that use graphics to transport you, rather than impress you, you'll love the graphics in this game. The sound perfectly fits the world and helps immersion. Sound cues are also used, particularly tough enemies that target the player howl as they enter a level. There are a variety of items to use and almost limitless replayabiltiy as you mix and match more effective trap combinations. My only real complaints would be somewhat sluggish controls as well as horrible controller support. Overall though, I recommend anyone play Orcs Must Die: 2, even if you're forever alone.
-
+<!-- TEASER_END -->
 There are a few things, specifically, that Orcs Must Die: 2 does well that recommends it for couples. First, of course, is the fact that it's truly cooperative, which is rare. Second,losing is fun, which is the difference between arguing over the defeat and happily starting another game. Lastly, and my favorite benefit: it offers a unique way to interact with someone you love, which is nearly priceless 
 
 ##What's your point?
