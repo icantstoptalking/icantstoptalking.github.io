@@ -7,7 +7,7 @@
 .. slug: missing-the-point
 -->
 
-Today I uploaded my new track [Clean Out My Mind](https://soundcloud.com/al_hacha/clean-out-my-mind). It's a fun song, hopefully we'll see some action on the it. If anyone reads this and is interested in my other beats, I'm working as hard as I can on cleaning up my tracks and getting them ready. So be patient, very soon the world will be positively flooded with the sweet, soothing sounds of Al Hacha. As we speak I working on redesigning this site to reflect the change of focus and to maybe include some ways to buy my music, if you were so interested. Also, todays rant isn't so much pop culture as it is a personal gripe. Without further ado:
+Today I uploaded my new track [Clean Out My Mind](https://soundcloud.com/al_hacha/clean-out-my-mind-1). It's a fun song, hopefully we'll see some action on the it. If anyone reads this and is interested in my other beats, I'm working as hard as I can on cleaning up my tracks and getting them ready. So be patient, very soon the world will be positively flooded with the sweet, soothing sounds of Al Hacha. As we speak I working on redesigning this site to reflect the change of focus and to maybe include some ways to buy my music, if you were so interested. Also, todays rant isn't so much pop culture as it is a personal gripe. Without further ado:
 
 ##Onward!
 
@@ -50,6 +50,6 @@ Fuck them, they might have more gear, but I have a Rockband drum converted to mi
 
 Before you leave, enjoy my new track:
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/148517099&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/148542733&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>
 
 
