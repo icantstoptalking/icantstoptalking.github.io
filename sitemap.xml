@@ -136,7 +136,7 @@
  </url>
  <url>
   <loc>http://www.icantstoptalking.com/index.html</loc>
-  <lastmod>2014-05-06</lastmod>
+  <lastmod>2014-05-08</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -170,8 +170,13 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://www.icantstoptalking.com/posts/missing-the-point.html</loc>
+  <lastmod>2014-05-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://www.icantstoptalking.com/posts/moved-on.html</loc>
-  <lastmod>2014-05-06</lastmod>
+  <lastmod>2014-05-08</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>

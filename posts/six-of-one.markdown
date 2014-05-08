@@ -49,10 +49,7 @@ It's the value issue again. Do I want to pay good money for half a game or inves
 
 ##Shut up fanboy, you're next
 
-AAA titles across all the platforms have become an exercise in the surreal. Players keep buying games they say they don't want, developers keep making games they say they don't want to make. The games them selves are bland procedurals, rehashed properties treading a line between innovation and tradition, always with the aim to sell as many units as possible. 
+AAA titles across all the platforms have become an exercise in the surreal. Players keep buying games they say they don't want, developers keep making games they say they don't want to make. The games them selves are bland procedurals, rehashed properties treading a line between innovation and tradition, always with the aim to sell as many units as possible. Players will piss and moan, complain that nothing new was added, that even the graphics are a small step up from the last one, yet they line up by the millions and shell out $60.00 or more so they can go online and call each other faggots. 
 
-It's an idiotic dance that both parties claim to hate, yet neither will break the cycle. 
-
-Instead it's an endless loop. Gamers pay sixty dollars for a game that they move on to criticize and disparage
-
+Where it get's really absurd is my first point about AAA titles: every one claims to hate them, yet they are easily the most visible, most popular games each year. It's a tower of cards. The companies that make the game claim that they would love to take chances, claim that they hate anti-piracy software as much as we do, some even claim that D
 
