@@ -11,7 +11,10 @@ Today I uploaded my new track [Clean Out My Mind](https://soundcloud.com/al_hach
 
 ##Onward!
 
-I'm writing today about gear snobs. I frequent music blogs, forums and most often the popular rap production subreddit [Making Hip Hop](www.reddit.com/r/makinghiphop). I've noticed a trend amongst the users of my various haunts: the proliferation of gear heads. That would be their own locution, I prefer to call them gear dicks. These guys love hanging out and letting people know that without the right gear, well, you're just screwed. You'll never make music as good as other people, these people of course, unless you step up and buy thousands of dollars of gear to make music. What a bunch of bullshit. 
+I'm writing today about gear snobs. I frequent music blogs, forums and most often the popular rap production subreddit [Making Hip Hop](www.reddit.com/r/makinghiphop). I've noticed a trend amongst the users of my various haunts: the proliferation of gear heads. That would be their own locution, I prefer to call them gear dicks. These guys love hanging out and letting people know that without the right gear, well, you're just screwed. You'll never make music as good as other people, these people of course, unless you step up and buy thousands of dollars of gear to make music. What a bunch of bullshit.
+
+<!-- TEASER_END -->
+ 
 
 ##"It's just not the same"
 

@@ -22,6 +22,8 @@ This [video](https://www.youtube.com/watch?v=oVfHeWTKjag) concerning Facebook, c
 
 In case you didn't watch the video or haven't followed the uproar, the basic point is this: non promoted content is not reaching people as effectively as advertising. That's it. That's what people are upset about, up until now they thought they were getting a free promotion platform, no strings attached. Now they are upset and making an uproar on the Internet because they think that it's unfair for Facebook to promote paid advertising ahead of their user generated content. Personally, I think Facebook is acting exactly as one would expect a huge, expensive for-profit company to act. The people I'm upset with are the idiots complaining about it. 
 
+<!-- TEASER_END -->
+
 ##Nothing is free. Nothing. 
 
 Really, the basic proposition is farcical if you write it down: creatives using Facebook as a promotional service shouldn't have to pay advertising fees to ensure that their content is seen by their followers. There are so many things wrong with that idea, I can't even get into them all, or even part of them. Really, I just want to make fun of all the pissed off people for thinking that they were getting something for free and that it would stay that way. 
