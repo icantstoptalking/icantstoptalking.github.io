@@ -2,7 +2,7 @@
 .. title: A Strange Dance
 .. slug: a-strange-dance
 .. date: 2014/05/23 08:42:36
-.. tags:music, dance,instrumental 
+.. tags: music, dance, instrumental, Update
 .. link: 
 .. description: I put a new song up		
 .. type: text

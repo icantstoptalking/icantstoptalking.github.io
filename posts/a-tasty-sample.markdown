@@ -2,7 +2,7 @@
 .. title: A Tasty Sample
 .. slug: a-tasty-sample
 .. date: 2014/05/23 11:36:30
-.. tags:music, SoundCloud 
+.. tags: music, Soundcloud 
 .. link: 
 .. description: 
 .. type: text

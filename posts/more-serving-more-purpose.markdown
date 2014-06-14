@@ -2,7 +2,7 @@
 .. title: More Serving, More Purpose
 .. slug: more-serving-more-purpose
 .. date: 2014/05/30 13:19:15
-.. tags:Update, Music, Soundcloud, MTG, Card Games 
+.. tags: Update, music, Soundcloud, MTG, Card Games 
 .. link: 
 .. description: 
 .. type: text

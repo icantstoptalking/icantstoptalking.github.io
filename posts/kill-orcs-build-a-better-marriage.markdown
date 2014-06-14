@@ -1,7 +1,7 @@
 <!-- 
 .. link: 
 .. description: 
-.. tags:games,couples,indie 
+.. tags: games, couples, indie 
 .. date: 2013/11/01 18:47:42
 .. title: Kill Orcs & Build A Better Marriage
 .. slug: kill-orcs-build-a-better-marriage

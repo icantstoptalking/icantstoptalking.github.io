@@ -1,7 +1,7 @@
 <!-- 
 .. link: 
 .. description: 
-.. tags:Blog,Update,rant,jerks 
+.. tags: Blog, Update, rant, jerks, music
 .. date: 2014/05/08 07:36:12
 .. title: Missing The Point
 .. slug: missing-the-point

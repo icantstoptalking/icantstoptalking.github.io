@@ -2,7 +2,7 @@
 .. title: You should've seen this coming
 .. slug: you-shouldve-seen-this-coming
 .. date: 2014/05/13 15:28:57
-.. tags: 
+.. tags: Update, news, music, Facebook 
 .. link: 
 .. description: 
 .. type: text
