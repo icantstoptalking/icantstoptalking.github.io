@@ -7,6 +7,8 @@
 .. slug: missing-the-point
 -->
 
+##First, The Good News
+
 Today I uploaded my new track [Clean Out My Mind](https://soundcloud.com/al_hacha/clean-out-my-mind-1). It's a fun song, hopefully we'll see some action on the it. If anyone reads this and is interested in my other beats, I'm working as hard as I can on cleaning up my tracks and getting them ready. So be patient, very soon the world will be positively flooded with the sweet, soothing sounds of Al Hacha. As we speak I working on redesigning this site to reflect the change of focus and to maybe include some ways to buy my music, if you were so interested. Also, todays rant isn't so much pop culture as it is a personal gripe. Without further ado:
 
 ##Onward!

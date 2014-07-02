@@ -8,6 +8,8 @@
 .. type: text
 -->
 
+It Serves A Purpose
+
 Back with more noise for the holes in your head! Relax and enjoy [Servile Purpose](https://soundcloud.com/al_hacha/servile-purpose). I think it's about finished, so I'd like to talk about it a little bit, but first I need to do a little shilling!
 
 If anyone is reading this, and *everyone* should be reading this, remember to follow me on [Twitter](https://twitter.com/al_hacha) and [SoundCloud](https://soundcloud.com/al_hacha) if you enjoy updates and thoughts at random. Please, make sure to dish out the "likes" like it's candy, every bit of encouragement helps makes this work (and helps me sell it to the ball and chain.) People say all this social networking is vital, and I suppose it is, but I think it's more vital for an established artist than for a "in the making" sort of performer such as my self. Oh well, even if I'm shouting into the wilderness, at least I'm shouting. 

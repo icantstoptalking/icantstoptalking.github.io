@@ -8,6 +8,8 @@
 .. type: text
 -->
 
+#It Hasn't Been That Long
+
 Welcome back to all my fan(s?). Honestly, I'm almost certain no one is reading this, but it's fun to pretend!
 
 First of course, the new music: [Lets Just Do It](https://soundcloud.com/al_hacha/lets-just-do-it) just "dropped" so to speak. It's far from studio quality, I know, but this is the first song I've been brave enough to publish with the vocals I recorded. It's not uncommon for me to rap over the beats I make, but I haven't ever done one that I felt could stand up to real scrutiny. By all means, this one could do with some scrutiny, but it could be a lot worse. It is about sexual congress, or "fucking" as the kids call it. It's not a curse laden [2 Live Crew](https://www.youtube.com/watch?v=u6VTj7LhCtE&feature=kp) song, nor am I [singing about juice running down my leg](http://youtu.be/Zyhu2ysqKGk). 
