@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO/DTD ncx 2005-1/EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx version="2005-1" xml:lang="en-US" xmlsn="http://www.daisy.org z3986/2005/ncx/">
+ <head>
+  <meta content="uid" name="dtb:uid"/>
+  <meta content="1" name="dtb:depth"/>
+  <meta content="0" name="dtb:totalPageCount"/>
+  <meta content="0" name="dtb:maxPageNumber"/>
+ </head>
+ <docTitle>
+  <text/>
+ </docTitle>
+ <docAuthor>
+  <text/>
+ </docAuthor>
+ <navMap>
+  <navpoint id="book_One" playorder="3">
+   <navLabel>
+    <text>
+     BOOK ONE
+    </text>
+   </navLabel>
+   <content src="Sigmar.html#book_One"/>
+  </navpoint>
+  <navpoint id="chap_One" playorder="4">
+   <navLabel>
+    <text>
+     ONE
+    </text>
+   </navLabel>
+   <content src="Sigmar.html#chap_One"/>
+  </navpoint>
+  <navpoint id="chap_Two" playorder="5">
+   <navLabel>
+    <text>
+     TWO
+    </text>
+   </navLabel>
+   <content src="Sigmar.html#chap_Two"/>
+  </navpoint>
+  <navpoint id="chap_Three" playorder="6">
+   <navLabel>
+    <text>
+     THREE
+    </text>
+   </navLabel>
+   <content src="Sigmar.html#chap_Three"/>
+  </navpoint>
+  <navpoint id="chap_Four" playorder="7">
+   <navLabel>
+    <text>
+     FOUR
+    </text>
+   </navLabel>
+   <content src="Sigmar.html#chap_Four"/>
+  </navpoint>
+  <navpoint id="chap_Five" playorder="8">
+   <navLabel>
+    <text>
+     FIVE
+    </text>
+   </navLabel>
+   <content src="Sigmar.html#chap_Five"/>
+  </navpoint>
+  <navpoint id="chap_Six" playorder="9">
+   <navLabel>
+    <text>
+     SIX
+    </text>
+   </navLabel>
+   <content src="Sigmar.html#chap_Six"/>
+  </navpoint>
+  <navpoint id="chap_Seven" playorder="10">
+   <navLabel>
+    <text>
+     SEVEN
+    </text>
+   </navLabel>
+   <content src="Sigmar.html#chap_Seven"/>
+  </navpoint>
+  <navpoint id="chap_Eight" playorder="11">
+   <navLabel>
+    <text>
+     EIGHT
+    </text>
+   </navLabel>
+   <content src="Sigmar.html#chap_Eight"/>
+  </navpoint>
+  <navpoint id="chap_Nine" playorder="12">
+   <navLabel>
+    <text>
+     NINE
+    </text>
+   </navLabel>
+   <content src="Sigmar.html#chap_Nine"/>
+  </navpoint>
+  <navpoint id="chap_Ten" playorder="13">
+   <navLabel>
+    <text>
+     TEN
+    </text>
+   </navLabel>
+   <content src="Sigmar.html#chap_Ten"/>
+  </navpoint>
+  <navpoint id="chap_Eleven" playorder="14">
+   <navLabel>
+    <text>
+     ELEVEN
+    </text>
+   </navLabel>
+   <content src="Sigmar.html#chap_Eleven"/>
+  </navpoint>
+  <navpoint id="chap_Twelve" playorder="15">
+   <navLabel>
+    <text>
+     TWELVE
+    </text>
+   </navLabel>
+   <content src="Sigmar.html#chap_Twelve"/>
+  </navpoint>
+  <navpoint id="chap_Thirteen" playorder="16">
+   <navLabel>
+    <text>
+     THIRTEEN
+    </text>
+   </navLabel>
+   <content src="Sigmar.html#chap_Thirteen"/>
+  </navpoint>
+  <navpoint id="chap_Fourteen" playorder="17">
+   <navLabel>
+    <text>
+     FOURTEEN&gt;
+    </text>
+   </navLabel>
+   <content src="Sigmar.html#chap_Fourteen"/>
+  </navpoint>
+  <navpoint id="chap_Fifteen" playorder="18">
+   <navLabel>
+    <text>
+     FIFTEEN
+    </text>
+   </navLabel>
+   <content src="Sigmar.html#chap_Fifteen"/>
+  </navpoint>
+  <navpoint id="chap_Sixteen" playorder="19">
+   <navLabel>
+    <text>
+     SIXTEEN
+    </text>
+   </navLabel>
+   <content src="Sigmar.html#chap_Sixteen"/>
+  </navpoint>
+  <navpoint id="chap_Seventeen" playorder="20">
+   <navLabel>
+    <text>
+     SEVENTEEN
+    </text>
+   </navLabel>
+   <content src="Sigmar.html#chap_Seventeen"/>
+  </navpoint>
+  <navpoint id="chap_Eighteen" playorder="21">
+   <navLabel>
+    <text>
+     EIGHTEEN
+    </text>
+   </navLabel>
+   <content src="Sigmar.html#chap_Eighteen"/>
+  </navpoint>
+  <navpoint id="chap_Nineteen" playorder="22">
+   <navLabel>
+    <text>
+     NINETEEN
+    </text>
+   </navLabel>
+   <content src="Sigmar.html#chap_Nineteen"/>
+  </navpoint>
+  <navpoint id="chap_Twenty" playorder="23">
+   <navLabel>
+    <text>
+     TWENTY
+    </text>
+   </navLabel>
+   <content src="Sigmar.html#chap_Twenty"/>
+  </navpoint>
+  <navpoint id="chap_TwentyOne" playorder="24">
+   <navLabel>
+    <text>
+     TWENTY-ONE
+    </text>
+   </navLabel>
+   <content src="Sigmar.html#chap_TwentyOne"/>
+  </navpoint>
+  <navpoint id="chap_TwentyTWo" playorder="25">
+   <navLabel>
+    <text>
+     TWENTY-TWO
+    </text>
+   </navLabel>
+   <content src="Sigmar.html#chap_TwentyTWo"/>
+  </navpoint>
+  <navpoint id="chap_TwentyThree" playorder="26">
+   <navLabel>
+    <text>
+     TWENTY-THREE
+    </text>
+   </navLabel>
+   <content src="Sigmar.html#chap_TwentyThree"/>
+  </navpoint>
+  <navpoint id="glossary" playorder="27">
+   <navLabel>
+    <text>
+     GLOSSARY
+    </text>
+   </navLabel>
+   <content src="Sigmar.html#glossary"/>
+  </navpoint>
+ </navMap>
+</ncx>
