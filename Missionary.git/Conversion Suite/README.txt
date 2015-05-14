@@ -1,0 +1,1 @@
+Missionary is a very simple python function that uses BeautifulSoup to generate toc and NCX files from properly formatted text/html files. Currently at version .05. No help docs at this time. 
