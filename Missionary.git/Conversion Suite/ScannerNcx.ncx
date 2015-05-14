@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO/DTD ncx 2005-1/EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx version="2005-1" xml:lang="en-US" xmlsn="http://www.daisy.org z3986/2005/ncx/">
+ <head>
+  <meta content="uid" name="dtb:uid"/>
+  <meta content="1" name="dtb:depth"/>
+  <meta content="0" name="dtb:totalPageCount"/>
+  <meta content="0" name="dtb:maxPageNumber"/>
+ </head>
+ <docTitle>
+  <text/>
+ </docTitle>
+ <docAuthor>
+  <text/>
+ </docAuthor>
+ <navMap>
+  <navpoint id="id" playorder="1">
+   <navLabel>
+    <text>
+    </text>
+   </navLabel>
+   <content src=""/>
+  </navpoint>
+  <navpoint id="id" playorder="2">
+   <navLabel>
+    <text>
+    </text>
+   </navLabel>
+   <content src=""/>
+  </navpoint>
+  <navpoint id="chap_one" playorder="3">
+   <navLabel>
+    <text>
+     1
+    </text>
+   </navLabel>
+   <content src="A_Scanner_Darkly.html#chap_one"/>
+  </navpoint>
+  <navpoint id="chap_two" playorder="4">
+   <navLabel>
+    <text>
+     2
+    </text>
+   </navLabel>
+   <content src="A_Scanner_Darkly.html#chap_two"/>
+  </navpoint>
+  <navpoint id="chap_three" playorder="5">
+   <navLabel>
+    <text>
+     3
+    </text>
+   </navLabel>
+   <content src="A_Scanner_Darkly.html#chap_three"/>
+  </navpoint>
+  <navpoint id="chap_four" playorder="6">
+   <navLabel>
+    <text>
+     4
+    </text>
+   </navLabel>
+   <content src="A_Scanner_Darkly.html#chap_four"/>
+  </navpoint>
+  <navpoint id="chap_five" playorder="7">
+   <navLabel>
+    <text>
+     5
+    </text>
+   </navLabel>
+   <content src="A_Scanner_Darkly.html#chap_five"/>
+  </navpoint>
+  <navpoint id="chap_six" playorder="8">
+   <navLabel>
+    <text>
+     6
+    </text>
+   </navLabel>
+   <content src="A_Scanner_Darkly.html#chap_six"/>
+  </navpoint>
+  <navpoint id="chap_seven" playorder="9">
+   <navLabel>
+    <text>
+     7
+    </text>
+   </navLabel>
+   <content src="A_Scanner_Darkly.html#chap_seven"/>
+  </navpoint>
+  <navpoint id="chap_eight" playorder="10">
+   <navLabel>
+    <text>
+     8
+    </text>
+   </navLabel>
+   <content src="A_Scanner_Darkly.html#chap_eight"/>
+  </navpoint>
+  <navpoint id="chap_nine" playorder="11">
+   <navLabel>
+    <text>
+     9
+    </text>
+   </navLabel>
+   <content src="A_Scanner_Darkly.html#chap_nine"/>
+  </navpoint>
+  <navpoint id="chap_ten" playorder="12">
+   <navLabel>
+    <text>
+     10
+    </text>
+   </navLabel>
+   <content src="A_Scanner_Darkly.html#chap_ten"/>
+  </navpoint>
+  <navpoint id="chap_eleven" playorder="13">
+   <navLabel>
+    <text>
+     11
+    </text>
+   </navLabel>
+   <content src="A_Scanner_Darkly.html#chap_eleven"/>
+  </navpoint>
+  <navpoint id="chap_twelve" playorder="14">
+   <navLabel>
+    <text>
+     12
+    </text>
+   </navLabel>
+   <content src="A_Scanner_Darkly.html#chap_twelve"/>
+  </navpoint>
+  <navpoint id="chap_thirteen" playorder="15">
+   <navLabel>
+    <text>
+     13
+    </text>
+   </navLabel>
+   <content src="A_Scanner_Darkly.html#chap_thirteen"/>
+  </navpoint>
+  <navpoint id="chap_fourteen" playorder="16">
+   <navLabel>
+    <text>
+     14
+    </text>
+   </navLabel>
+   <content src="A_Scanner_Darkly.html#chap_fourteen"/>
+  </navpoint>
+  <navpoint id="chap_fifteen" playorder="17">
+   <navLabel>
+    <text>
+     15
+    </text>
+   </navLabel>
+   <content src="A_Scanner_Darkly.html#chap_fifteen"/>
+  </navpoint>
+  <navpoint id="chap_sixteen" playorder="18">
+   <navLabel>
+    <text>
+     16
+    </text>
+   </navLabel>
+   <content src="A_Scanner_Darkly.html#chap_sixteen"/>
+  </navpoint>
+  <navpoint id="chap_seventeen" playorder="19">
+   <navLabel>
+    <text>
+     17
+    </text>
+   </navLabel>
+   <content src="A_Scanner_Darkly.html#chap_seventeen"/>
+  </navpoint>
+  <navpoint id="authors_note" playorder="20">
+   <navLabel>
+    <text>
+     AUTHOR'S NOTE
+    </text>
+   </navLabel>
+   <content src="A_Scanner_Darkly.html#authors_note"/>
+  </navpoint>
+  <navpoint id="about_the_author" playorder="21">
+   <navLabel>
+    <text>
+     ABOUT THE AUTHOR
+    </text>
+   </navLabel>
+   <content src="A_Scanner_Darkly.html#about_the_author"/>
+  </navpoint>
+ </navMap>
+</ncx>
